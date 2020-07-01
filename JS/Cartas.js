@@ -396,8 +396,6 @@ function vetorAleatorio() {
         numeros[cont2] = aleatorio;
         cont2++;
     } while (cont2 != 43);
-    console.log('Sortidos Desafios:');
-    console.log(numeros);
 }
 
 function novoDesafio() {
@@ -800,6 +798,4 @@ function vetorAleatorio2() {
         numeros2[cont2] = aleatorio;
         cont2++;
     } while (cont2 != 31);
-    console.log('Sortidos Compras:')
-    console.log(numeros2);
 }
